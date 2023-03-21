@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=leesfact&fontColor=CD5C5C&fontSize=70&animation=fadeIn&fontAlignY=55)
 <h1>LEE KANG YONG</h1>
 
 
