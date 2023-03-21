@@ -2,8 +2,9 @@
 
 <header>
   <h2>🙏 소개</h2>
-  <span></span>
-</header>
+  <div>3D Printer HW & 펌웨어 유지보수, Arduino 기반 프로토타입 제작 업무 수행</div>
+  <div>현재는 AWS 기반 백엔드 개발 과정에서 공부하고 있습니다.</div>
+</header>  
 <div>
   <h1>✍️ Studying</h1>
 </div>                                                   
@@ -21,6 +22,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesfact)](https://github.com/leesfact/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesfact)](https://github.com/leesfact/github-readme-stats)-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
