@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=leesfact&fontColor=CD5C5C&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-<h1>LEE KANG YONG</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1000&multiline=true&width=435&lines=Hi%2C+I'm+KangYong;I'm+dreaming+of+being+a+backend+developer!)](https://git.io/typing-svg)
 
 
 <h2>🙌🏻 소개
